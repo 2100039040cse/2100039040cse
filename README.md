@@ -26,6 +26,7 @@ Aspiring Software Engineer with a passion for developing dynamic web application
 - **University Mail ID**: [2100039040@kluniversity.in](mailto:2100039040@kluniversity.in)
 - **Personal Email**: [shaikkottapetasohail@gmail.com](mailto:shaikkottapetasohail@gmail.com)
 - **Phone**: +91 9493731584
+- **[Resume](https://drive.google.com/file/d/1urEP-lmsSBcN5MtlMr9LFeOO8-ymrVcY/view?usp=sharing)**
 
 ---
 ### 📘 Education
