@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Sohail Sk 👋
-# 👋 Hello, I'm Shaik Sohail
+
+# 👋 Hello, I'm Sohail
 
 Aspiring Software Engineer with a passion for developing dynamic web applications, enhancing user experiences, and making technology accessible to all.
 
@@ -34,7 +34,7 @@ Aspiring Software Engineer with a passion for developing dynamic web application
   Tools: HTML, CSS, JavaScript, Python, MySQL, Django  
   *An Online Vehicle Booking System with roles for Admin, Staff, and Users. Includes management of vehicles, bookings, cancellations, and partnership inquiries.*
 
-- **Online Real Estate Web App**  
+- **Online Real Estate Web App**
   Tools: HTML, CSS, JavaScript, C#, .NET  
   *A collaborative platform allowing users to list properties with details, images, and locations, aiming to streamline the real estate process.*
 
@@ -45,7 +45,7 @@ Aspiring Software Engineer with a passion for developing dynamic web application
 ---
 
 ### 🎓 Academic Projects
-- **Counseling and Visitors Management Application (MERN Stack)**  
+- **Counseling and Visitors Management Application (MERN Stack)()**  
   Tools: HTML, CSS, JavaScript, Node.js  
   *Manages counseling appointments and visitor scheduling, featuring separate dashboards for Admins and Users.*
 
