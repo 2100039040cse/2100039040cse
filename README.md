@@ -27,6 +27,7 @@ Aspiring Software Engineer with a passion for developing dynamic web application
 - **Personal Email**: [shaikkottapetasohail@gmail.com](mailto:shaikkottapetasohail@gmail.com)
 - **Phone**: +91 9493731584
 - **[Resume](https://drive.google.com/file/d/1urEP-lmsSBcN5MtlMr9LFeOO8-ymrVcY/view?usp=sharing)**
+- **[Portfolio](http://sohailportfolio.liveblog365.com/?i=1)**
 
 ---
 ### 📘 Education
