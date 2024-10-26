@@ -28,6 +28,19 @@ Aspiring Software Engineer with a passion for developing dynamic web application
 - **Phone**: +91 9493731584
 
 ---
+### 📘 Education
+- **B.Tech, CSE**  
+  K L Deemed to be University, Vijayawada – *4th Year, CGPA: 9.44*
+
+- **Diploma, Mechanical Engineering**  
+  Govt Polytechnic College for Minorities, Kurnool – *87%*  
+  [View Certificate](https://drive.google.com/file/d/1PvnnkDkaH6I1cRXIzp5UvgWsFtLk1OMT/view?usp=drive_link)
+
+- **SSC**  
+  Vimala E M High School, Yerraguntla – *CGPA: 9.5*  
+  [View Certificate](https://drive.google.com/file/d/1m-8NYR840pyBJt48tM_NNxHTbLZ0Ejvo/view?usp=drive_link)
+
+---
 
 ### 💼 Personal Projects
 - **[TransportLink Solutions Web App](https://2100039040.pythonanywhere.com)**  
@@ -85,19 +98,7 @@ Aspiring Software Engineer with a passion for developing dynamic web application
 
 ---
 
-### 📘 Education
-- **B.Tech, CSE**  
-  K L Deemed to be University, Vijayawada – *4th Year, CGPA: 9.44*
 
-- **Diploma, Mechanical Engineering**  
-  Govt Polytechnic College for Minorities, Kurnool – *87%*  
-  [View Certificate](https://drive.google.com/file/d/1PvnnkDkaH6I1cRXIzp5UvgWsFtLk1OMT/view?usp=drive_link)
-
-- **SSC**  
-  Vimala E M High School, Yerraguntla – *CGPA: 9.5*  
-  [View Certificate](https://drive.google.com/file/d/1m-8NYR840pyBJt48tM_NNxHTbLZ0Ejvo/view?usp=drive_link)
-
----
 
 Feel free to connect and explore my work!
 
