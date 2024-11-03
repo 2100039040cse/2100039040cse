@@ -36,11 +36,11 @@ Aspiring Software Engineer with a passion for developing dynamic web application
 
 - **Diploma, Mechanical Engineering**  
   Govt Polytechnic College for Minorities, Kurnool – *87%*  
-  [View Certificate](https://drive.google.com/file/d/1PvnnkDkaH6I1cRXIzp5UvgWsFtLk1OMT/view?usp=drive_link)
+  [View Certificate](https://drive.google.com/file/d/1m-8NYR840pyBJt48tM_NNxHTbLZ0Ejvo/view?usp=drive_link)
 
 - **SSC**  
   Vimala E M High School, Yerraguntla – *CGPA: 9.5*  
-  [View Certificate](https://drive.google.com/file/d/1m-8NYR840pyBJt48tM_NNxHTbLZ0Ejvo/view?usp=drive_link)
+  [View Certificate](https://drive.google.com/file/d/1PvnnkDkaH6I1cRXIzp5UvgWsFtLk1OMT/view?usp=drive_link)
 
 ---
 
