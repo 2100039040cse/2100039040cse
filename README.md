@@ -74,10 +74,11 @@ Aspiring Software Engineer with a passion for developing dynamic web application
 ---
 
 ### 🛠 Skills
-- **Programming**: C++, C#, Python, HTML, CSS, JavaScript
-- **Frameworks**: Django, .NET
+- **Programming**: Java, Python, HTML, CSS, JavaScript
+- **Frameworks**: Django, Springboot, Firebase
 - **Databases & Tools**: MySQL, Figma, WordPress
 - **Developer Tools**: Git/GitHub, VS Code
+- **Other Skills**: Automation testing(beginner), Android Development.
 - **Soft Skills**: Communication, Teamwork, Quick Decision-making
 
 ---
