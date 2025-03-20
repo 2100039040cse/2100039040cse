@@ -26,7 +26,6 @@ Aspiring Software Engineer with a passion for developing dynamic web application
 - **University Mail ID**: [2100039040@kluniversity.in](mailto:2100039040@kluniversity.in)
 - **Personal Email**: [shaikkottapetasohail@gmail.com](mailto:shaikkottapetasohail@gmail.com)
 - **Phone**: +91 9493731584
-- **[Resume](https://drive.google.com/file/d/1urEP-lmsSBcN5MtlMr9LFeOO8-ymrVcY/view?usp=sharing)**
 - **[Portfolio](http://sohailportfolio.liveblog365.com/?i=1)**
 
 ---
@@ -50,7 +49,7 @@ Aspiring Software Engineer with a passion for developing dynamic web application
   *An Online Vehicle Booking System with roles for Admin, Staff, and Users. Includes management of vehicles, bookings, cancellations, and partnership inquiries.*
 
 - **Online Real Estate Web App**
-  Tools: HTML, CSS, JavaScript, C#, .NET  
+  Tools: HTML, CSS, JavaScript, Java, MySQL, SpringBoot. 
   *A collaborative platform allowing users to list properties with details, images, and locations, aiming to streamline the real estate process.*
 
 - **[T2S and S2T Web App](https://sohailwebapp.pythonanywhere.com)**  
