@@ -55,7 +55,7 @@ Aspiring Software Engineer with a passion for developing dynamic web application
 - **[T2S and S2T Web App](https://sohailwebapp.pythonanywhere.com)**  
   Tools: HTML, CSS, JavaScript, Python, MySQL, Django  
   *Text-to-Speech and Speech-to-Text Converter web application for seamless format conversions.*
-- **DNS Log Analysis Using Splunk SIEM ()**    
+- **DNS Log Analysis Using Splunk SIEM**    
   *Configured Splunk SIEM to analyze DNS logs for detecting anomalies and security threats.*
   *Uploaded and indexed DNS logs, extracted key fields, and used search queries to identify suspicious domains and unusual
   patterns.*
