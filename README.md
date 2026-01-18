@@ -48,9 +48,6 @@ Aspiring Software Engineer with a passion for developing dynamic web application
   Tools: HTML, CSS, JavaScript, Python, MySQL, Django  
   *An Online Vehicle Booking System with roles for Admin, Staff, and Users. Includes management of vehicles, bookings, cancellations, and partnership inquiries.*
 
-- **Online Real Estate Web App**
-  Tools: HTML, CSS, JavaScript, Java, MySQL, SpringBoot. 
-  *A collaborative platform allowing users to list properties with details, images, and locations, aiming to streamline the real estate process.*
 
 - **[T2S and S2T Web App](https://sohailwebapp.pythonanywhere.com)**  
   Tools: HTML, CSS, JavaScript, Python, MySQL, Django  
