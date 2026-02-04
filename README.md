@@ -32,6 +32,7 @@ Aspiring Software Engineer with a passion for developing dynamic web application
 ### 📘 Education
 - **B.Tech, CSE**  
   K L Deemed to be University, Vijayawada – *4th Year, CGPA: 9.22*
+   [View Certificate](https://drive.google.com/file/d/1paqXNY98qoCc3tTmxTLkjH833D_UblQa/view?usp=sharing)
 
 - **Diploma, Mechanical Engineering**  
   Govt Polytechnic College for Minorities, Kurnool – *87%*  
@@ -77,18 +78,18 @@ Aspiring Software Engineer with a passion for developing dynamic web application
 ---
 
 ### 🛠 Skills
-- **Programming**: Java, Python, HTML, CSS, JavaScript
-- **Frameworks**: Django, Springboot, Firebase
+- **Programming**: Python, HTML, CSS, JavaScript
+- **Frameworks**: Django, Firebase
 - **Databases & Tools**: MySQL, Figma, WordPress
 - **Developer Tools**: Git/GitHub, VS Code
-- **Other Skills**: Automation testing(beginner), Android Development.
 - **Soft Skills**: Communication, Teamwork, Quick Decision-making
 
 ---
 
 ### 📜 Certifications
-- **ServiceNow Certified System Administrator** – April 2024 [View Certificate](https://drive.google.com/file/d/1h0dztKo-Vfc071VZ7nl6tUt03T-AFzNB/view?usp=sharing)
 - **Microsoft Certified: Azure Fundamentals** – Jan 2023 [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/SKSohail-3599/A86AEF69B160134?sharingId=2C2C878357547213)
+- **ServiceNow Certified System Administrator** – April 2024 [View Certificate](https://drive.google.com/file/d/1h0dztKo-Vfc071VZ7nl6tUt03T-AFzNB/view?usp=sharing)
+
 
 ---
 
