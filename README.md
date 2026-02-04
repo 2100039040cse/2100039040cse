@@ -32,7 +32,7 @@ Aspiring Software Engineer with a passion for developing dynamic web application
 ### 📘 Education
 - **B.Tech, CSE**  
   K L Deemed to be University, Vijayawada – *4th Year, CGPA: 9.22*
-   [View Certificate](https://drive.google.com/file/d/1paqXNY98qoCc3tTmxTLkjH833D_UblQa/view?usp=sharing)
+  [View Certificate](https://drive.google.com/file/d/1paqXNY98qoCc3tTmxTLkjH833D_UblQa/view?usp=sharing)
 
 - **Diploma, Mechanical Engineering**  
   Govt Polytechnic College for Minorities, Kurnool – *87%*  
