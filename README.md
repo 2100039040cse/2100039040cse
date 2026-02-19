@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Hello, I'm Sohail
 
-Aspiring Software Engineer with a passion for developing dynamic web applications, enhancing user experiences, and making technology accessible to all.
+Motivated individual with a strong academic record and experience working on real-world, data-driven projects. Interested in analyzing data, identifying patterns, and supporting business decisions through meaningful insights. Seeking an entry-level opportunity to contribute to organizational growth while continuously learning in a professional environment.
 
 ---
 
@@ -46,7 +46,7 @@ Aspiring Software Engineer with a passion for developing dynamic web application
 
 ### 💼 Personal Projects
 
-- **[E-Commerce Funnel Analysis and Conversion Optimization](https://github.com/2100039040cse/E-Commerce_Funnel_Analysis)**  
+- **[E-Commerce Funnel Analysis and Conversion Optimization](https://app.powerbi.com/view?r=eyJrIjoiNzgwOWQ4M2UtOWQzZS00MGYxLTg3MTEtNjNkNjk5ODk5ZWJmIiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D&pageName=e599229c1f4c7317c935)**  
   **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI  
   *Performed end-to-end analysis of user journey stages (Browse → Add to Cart → Checkout → Purchase). Engineered session-level features, calculated KPIs such as conversion rate, drop-off rate, bounce rate, AOV, and revenue, and built interactive dashboards in Power BI to identify optimization opportunities.*
 
