@@ -49,19 +49,17 @@ Aspiring Software Engineer with a passion for developing dynamic web application
   Tools: HTML, CSS, JavaScript, Python, MySQL, Django  
   *An Online Vehicle Booking System with roles for Admin, Staff, and Users. Includes management of vehicles, bookings, cancellations, and partnership inquiries.*
 
-
 - **[T2S and S2T Web App](https://sohailwebapp.pythonanywhere.com)**  
   Tools: HTML, CSS, JavaScript, Python, MySQL, Django  
   *Text-to-Speech and Speech-to-Text Converter web application for seamless format conversions.*
-- **DNS Log Analysis Using Splunk SIEM**    
-  *Configured Splunk SIEM to analyze DNS logs for detecting anomalies and security threats.*
-  *Uploaded and indexed DNS logs, extracted key fields, and used search queries to identify suspicious domains and unusual
-  patterns.*
-  *Leveraged regex filtering, stats, and top commands to analyze query frequency and investigate potential threats.*
 
 ---
 
 ### 🎓 Academic Projects
+
+- **AI-Powered Disease Prediction System**  
+  Tools: Python, Django, Machine Learning, PostgreSQL, HTML, CSS, JavaScript  
+  *Developed a patient-centric web application that predicts possible diseases based on symptoms using machine learning models. The system also provides basic medication suggestions and stores patient data for analysis.*
 
 - **Counseling and Visitors Management Application (MERN Stack)()**  
   Tools: HTML, CSS, JavaScript, Node.js  
@@ -76,13 +74,17 @@ Aspiring Software Engineer with a passion for developing dynamic web application
   *Efficient course and student management with user roles and streamlined enrollment.*
 
 ---
-
 ### 🛠 Skills
-- **Programming**: Python, HTML, CSS, JavaScript
-- **Frameworks**: Django, Firebase
-- **Databases & Tools**: MySQL, Figma, WordPress
-- **Developer Tools**: Git/GitHub, VS Code
-- **Soft Skills**: Communication, Teamwork, Quick Decision-making
+
+**Programming:** Python  
+**Data Analysis:** EDA, Data Cleaning, Data Preprocessing, Feature Engineering  
+**Libraries:** NumPy, Pandas, Matplotlib, Seaborn  
+**Machine Learning:** Regression, Classification, Model Building, Evaluation Metrics  
+**Statistics:** Descriptive Statistics, Basic Inferential Concepts  
+**Frameworks & Visualization Tools:** Django, Power BI  
+**Databases & Tools:** MySQL, SQL, Git, GitHub, VS Code
+**Soft Skills:** Communication, Teamwork, Quick Decision-making
+
 
 ---
 
