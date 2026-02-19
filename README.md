@@ -45,6 +45,11 @@ Aspiring Software Engineer with a passion for developing dynamic web application
 ---
 
 ### 💼 Personal Projects
+
+- **[E-Commerce Funnel Analysis and Conversion Optimization](https://github.com/2100039040cse/E-Commerce_Funnel_Analysis)**  
+  **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI  
+  *Performed end-to-end analysis of user journey stages (Browse → Add to Cart → Checkout → Purchase). Engineered session-level features, calculated KPIs such as conversion rate, drop-off rate, bounce rate, AOV, and revenue, and built interactive dashboards in Power BI to identify optimization opportunities.*
+
 - **[TransportLink Solutions Web App](https://2100039040.pythonanywhere.com)**  
   Tools: HTML, CSS, JavaScript, Python, MySQL, Django  
   *An Online Vehicle Booking System with roles for Admin, Staff, and Users. Includes management of vehicles, bookings, cancellations, and partnership inquiries.*
@@ -82,7 +87,7 @@ Aspiring Software Engineer with a passion for developing dynamic web application
 **Machine Learning:** Regression, Classification, Model Building, Evaluation Metrics  
 **Statistics:** Descriptive Statistics, Basic Inferential Concepts  
 **Frameworks & Visualization Tools:** Django, Power BI  
-**Databases & Tools:** MySQL, SQL, Git, GitHub, VS Code
+**Databases & Tools:** MySQL, SQL, Git, GitHub, VS Code  
 **Soft Skills:** Communication, Teamwork, Quick Decision-making
 
 
