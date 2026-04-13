@@ -94,9 +94,8 @@ Motivated individual with a strong academic record and experience working on rea
 ---
 
 ### 📜 Certifications
-- **Microsoft Certified: Azure Fundamentals** – Jan 2023 [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/SKSohail-3599/A86AEF69B160134?sharingId=2C2C878357547213)
-- **ServiceNow Certified System Administrator** – April 2024 [View Certificate](https://drive.google.com/file/d/1h0dztKo-Vfc071VZ7nl6tUt03T-AFzNB/view?usp=sharing)
-
+- **Microsoft Certified: Azure Fundamentals** – Jan 2023 
+- **ServiceNow Certified System Administrator** – April 2024
 
 ---
 
