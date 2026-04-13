@@ -32,15 +32,15 @@ Motivated individual with a strong academic record and experience working on rea
 ### 📘 Education
 - **B.Tech, CSE**  
   K L Deemed to be University, Vijayawada – *4th Year, CGPA: 9.22*  
-  [View Certificate](https://drive.google.com/file/d/1paqXNY98qoCc3tTmxTLkjH833D_UblQa/view?usp=sharing)
+ 
 
 - **Diploma, Mechanical Engineering**  
   Govt Polytechnic College for Minorities, Kurnool – *87%*  
-  [View Certificate](https://drive.google.com/file/d/1m-8NYR840pyBJt48tM_NNxHTbLZ0Ejvo/view?usp=drive_link)
+ 
 
 - **SSC**  
   Vimala E M High School, Yerraguntla – *CGPA: 9.5*  
-  [View Certificate](https://drive.google.com/file/d/1PvnnkDkaH6I1cRXIzp5UvgWsFtLk1OMT/view?usp=drive_link)
+ 
 
 ---
 
