@@ -22,10 +22,8 @@ Motivated individual with a strong academic record and experience working on rea
 ---
 
 ### 📫 Contact Information
-- **Placement Email**: [2100039040cse.r@gmail.com](mailto:2100039040cse.r@gmail.com)
-- **University Mail ID**: [2100039040@kluniversity.in](mailto:2100039040@kluniversity.in)
+
 - **Personal Email**: [shaikkottapetasohail@gmail.com](mailto:shaikkottapetasohail@gmail.com)
-- **Phone**: +91 9493731584
 - **[Portfolio](http://sohailportfolio.liveblog365.com/?i=1)**
 
 ---
